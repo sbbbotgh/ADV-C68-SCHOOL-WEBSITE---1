@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: rgb(255, 38, 188);
+    background: radial-gradient(circle, rgba(255, 38, 188, 1) 0%, rgba(0, 254, 255, 1) 100%);
+}
+
+.timeop {
+    text-align: right !important;
+    position: sticky;
+}
+
+nav {
+    position: sticky;
+    margin-top: 0;
+    z-index: 9999:
+}
+
+#home h1,
+#slife h4,
+#academic h4,
+#sinfo a,
+#web h4,
+#fh {
+    font-family: 'Anton', sans-serif;
+}
